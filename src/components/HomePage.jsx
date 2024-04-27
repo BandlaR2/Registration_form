@@ -10,7 +10,9 @@ const HomePage = ({ username, onLogout }) => {
       <h2>Welcome, {username}!</h2>
       
     </div>
-  );
+  )
+
+
 };
 
 export default HomePage;
